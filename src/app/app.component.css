@@ -1,0 +1,12 @@
+.wrapper {
+  width: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-wrapper {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

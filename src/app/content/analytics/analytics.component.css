@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.cell {
+  width: 350px;
+  height: 350px;
+  //text-align: center;
+}
+
+.wrapper {
+  width: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buffer {
+  height: 250px;
+}
